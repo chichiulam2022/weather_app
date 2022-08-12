@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url("/assets/nature-hd-background-20.jpeg");
+    background-image: url("nature-hd-background-20.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
