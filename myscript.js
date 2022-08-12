@@ -53,7 +53,7 @@ ClearHistoryBtn.onclick = () => {
 
 function getWeather(city) {
     const key = "73b0a80c1401397a16e07b838eb42982"
-    const baseURL = "http://api.openweathermap.org/data/2.5/"
+    const baseURL = "https://api.openweathermap.org/data/2.5/"
 
     const queryURL = (`${baseURL}weather?q=${city}&units=metric&APPID=${key}`)
     axios.get(queryURL)
