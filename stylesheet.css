@@ -9,6 +9,11 @@
     font-weight: bold;
 }
 
+body {
+    background-image: url("nature-hd-background-20.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 h1 {
     font-family: 'Fredoka One', cursive;
