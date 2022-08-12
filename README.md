@@ -16,7 +16,7 @@ HTML:
 
 CSS:
 
-<img width="700" alt="Screen Shot 2022-08-11 at 9 05 37 PM" src="https://user-images.githubusercontent.com/108379616/184274468-f7d4969a-293f-40e8-bf55-94dcad3ba083.png">
+<img width="700" alt="Screen Shot 2022-08-11 at 11 14 54 PM" src="https://user-images.githubusercontent.com/108379616/184278519-2c607f5c-b784-466b-84c1-ee7cc2051b03.png">
 
 JavaScript:
 
