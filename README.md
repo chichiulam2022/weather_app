@@ -11,10 +11,13 @@ Techniques used in this app:
 
 ## Code Examples:
 HTML:
-<img width="1056" alt="Screen Shot 2022-08-11 at 9 05 18 PM" src="https://user-images.githubusercontent.com/108379616/184274449-d43fbd14-2dc3-4977-b2ae-7585310d18ba.png">
+
+<img width="700" alt="Screen Shot 2022-08-11 at 9 05 18 PM" src="https://user-images.githubusercontent.com/108379616/184274449-d43fbd14-2dc3-4977-b2ae-7585310d18ba.png">
 
 CSS:
-<img width="753" alt="Screen Shot 2022-08-11 at 9 05 37 PM" src="https://user-images.githubusercontent.com/108379616/184274468-f7d4969a-293f-40e8-bf55-94dcad3ba083.png">
+
+<img width="700" alt="Screen Shot 2022-08-11 at 9 05 37 PM" src="https://user-images.githubusercontent.com/108379616/184274468-f7d4969a-293f-40e8-bf55-94dcad3ba083.png">
 
 JavaScript:
-<img width="1056" alt="Screen Shot 2022-08-11 at 9 05 06 PM" src="https://user-images.githubusercontent.com/108379616/184274380-e927fdb0-5102-4cb9-aed4-4d3cf28632ce.png">
+
+<img width="700" alt="Screen Shot 2022-08-11 at 9 05 06 PM" src="https://user-images.githubusercontent.com/108379616/184274380-e927fdb0-5102-4cb9-aed4-4d3cf28632ce.png">
